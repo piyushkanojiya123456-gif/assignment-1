@@ -4,10 +4,10 @@ using namespace std;
 
 class student 
 {
-public: //access specifier 
-int rollno; //data member
-string name; //data member
-float marks; //data member
+public:
+int rollno;
+string name;
+float marks; 
 
 
 //member function
